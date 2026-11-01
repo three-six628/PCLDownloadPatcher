@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gu7fJ31rrd4=",
+  "success": true,
+  "projectFilePath": "D:\\desktop\\pcl逆向\\PCLDownloadPatcher\\PCLDownloadPatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\twb_1\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\twb_1\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,12 +1,10 @@
-# Build
-bin/
-obj/
-
 # Visual Studio
 .vs/
 *.user
 *.suo
 
 # Misc
-*.pdb
 *.err.txt
+
+# Runtime-generated settings (not part of the build)
+PCLDownloadPatcher.Settings.json

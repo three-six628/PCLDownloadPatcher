@@ -1,0 +1,11 @@
+D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.csproj.AssemblyReference.cache
+D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.AssemblyInfoInputs.cache
+D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.AssemblyInfo.cs
+D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.csproj.CoreCompileInputs.cache
+D:\desktop\pcl逆向\PCLDownloadPatcher\bin\Release\net472\PCLDownloadPatcher.exe.config
+D:\desktop\pcl逆向\PCLDownloadPatcher\bin\Release\net472\PCLDownloadPatcher.exe
+D:\desktop\pcl逆向\PCLDownloadPatcher\bin\Release\net472\PCLDownloadPatcher.pdb
+D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.exe
+D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.pdb
+D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.exe.config
