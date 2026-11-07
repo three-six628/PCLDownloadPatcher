@@ -9,6 +9,7 @@
     <Nullable>disable</Nullable>
     <Deterministic>false</Deterministic>
     <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Cecil">

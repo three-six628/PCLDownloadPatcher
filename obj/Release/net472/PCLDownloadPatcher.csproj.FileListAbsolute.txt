@@ -9,3 +9,4 @@ D:\desktop\pcl逆向\PCLDownloadPatcher\bin\Release\net472\PCLDownloadPatcher.pd
 D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.exe
 D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.pdb
 D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.exe.config
+D:\desktop\pcl逆向\PCLDownloadPatcher\obj\Release\net472\PCLDownloadPatcher.sourcelink.json

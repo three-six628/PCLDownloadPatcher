@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PCLDownloadPatcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f609415c0b0a2e272c7ce855b3d117ef0645545b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PCLDownloadPatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PCLDownloadPatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
